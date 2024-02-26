@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AIBigPlayer</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-02-23T01:35:38.514Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>AIBigPlayer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>手把手教你注册ChatGPT账号，5分钟即可搞定（文末附带ChatGPT plus升级方法）</title>
+    <link href="http://example.com/2024/02/23/how-to-regist-chatgpt/"/>
+    <id>http://example.com/2024/02/23/how-to-regist-chatgpt/</id>
+    <published>2024-02-23T01:35:38.514Z</published>
+    <updated>2024-02-23T01:35:38.514Z</updated>
+    
+    <content type="html"><![CDATA[<p>由于种种原因，OpenAI未对国内用户开放ChatGPT的注册权限。最近发现不少想要体验原生ChatGPT的小伙伴还不知道怎么注册ChatGPT账号。下面我就手把手分享一下。</p><p>（已有账号想要快速升级 ChatGPT Plus，可以看这篇教程：<a href="https://aibigplayer.github.io/2024/01/31/how-to-pay-for-chatgpt4/">ChatGPT 轻松升级 Plus方法</a>）</p><h2 id="注册步骤"><a href="#注册步骤" class="headerlink" title="注册步骤"></a>注册步骤</h2><h3 id="一、科学上网"><a href="#一、科学上网" class="headerlink" title="一、科学上网"></a>一、科学上网</h3><p>众所周知的原因，这步略过(´·ω·&#96;) </p><h3 id="二、手机号码接码"><a href="#二、手机号码接码" class="headerlink" title="二、手机号码接码"></a>二、手机号码接码</h3><p>2024年后注册ChatGPT已经不需要虚拟手机号码了，这里为大家省去了很多不必要的步骤和费用。</p><h3 id="三、邮箱注册"><a href="#三、邮箱注册" class="headerlink" title="三、邮箱注册"></a>三、邮箱注册</h3><p>注册ChatGPT需要一个海外邮箱，这里推荐proton 邮箱（其他海外邮箱如谷歌邮箱也可以，Outlook容易被封禁，不推荐）</p><h4 id="3-1-访问proton"><a href="#3-1-访问proton" class="headerlink" title="3.1 访问proton"></a>3.1 访问proton</h4><p>proton地址：<a href="https://proton.me/">https://proton.me/</a></p><p>选择右上角的 「Create a free account」</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/054443.png" alt="proton 网站"></p><h4 id="3-2-选择免费套餐"><a href="#3-2-选择免费套餐" class="headerlink" title="3.2 选择免费套餐"></a>3.2 选择免费套餐</h4><p>免费的套餐即可注册ChatGPT账号</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/054505-1.png" alt="proton 套餐"></p><h4 id="3-3-选择邮箱后缀，设置用户名和密码"><a href="#3-3-选择邮箱后缀，设置用户名和密码" class="headerlink" title="3.3 选择邮箱后缀，设置用户名和密码"></a>3.3 选择邮箱后缀，设置用户名和密码</h4><p>选择proton.me后缀即可</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/151156.png" alt="proton"></p><h4 id="3-4-通过真人检验"><a href="#3-4-通过真人检验" class="headerlink" title="3.4 通过真人检验"></a>3.4 通过真人检验</h4><p>依次拖动验证码，然后设置显示的名称，跳过手机验证就可以。</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/151253.png" alt="verification 验证"></p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/151315.png" alt="proton 验证"></p><h3 id="四、注册OpenAI账号"><a href="#四、注册OpenAI账号" class="headerlink" title="四、注册OpenAI账号"></a>四、注册OpenAI账号</h3><h4 id="4-1-申请OpenAI账号"><a href="#4-1-申请OpenAI账号" class="headerlink" title="4.1 申请OpenAI账号"></a>4.1 申请OpenAI账号</h4><p>首先打开 <a href="https://chat.openai.com/">OpenAI</a> 的账户注册页面，输入刚刚注册的Proton邮箱:</p><p><a href="https://chat.openai.com/">https://chat.openai.com/</a></p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/151820.png" alt="openai截图"></p><h4 id="4-2-验证邮箱"><a href="#4-2-验证邮箱" class="headerlink" title="4.2 验证邮箱"></a>4.2 验证邮箱</h4><p>验证邮箱，登录之前注册的邮箱，去收件箱里点击「Verify email address」即可。</p><p><a href="https://proton.me/">https://proton.me/</a></p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/151902.png" alt="验证邮箱"></p><p>然后提供你的名和姓及生日，并点击继续</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/151929.png" alt="生日"></p><p>最后选择创建 API 还是 ChatGPT账户，个人用户选择 ChatGPT 账户即可：</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/152006.png" alt="img"></p><p>最后附上一些常用的链接：</p><p>ChatGPT 用户的登录入口  <a href="https://chat.openai.com/">https://chat.openai.com</a><br>API 开发者用户的登录入口  <a href="https://platform.openai.com/">https://platform.openai.com</a></p><p>ChatGPT Plus升级教程 <a href="https://aibigplayer.github.io/2024/01/31/how-to-pay-for-chatgpt4/">https://aibigplayer.github.io/2024/01/31/how-to-pay-for-chatgpt4/</a></p><p>ChatGPT Plus付费虚拟卡平台 <a href="https://bewildcard.com/i/5AIAI">https://bewildcard.com/i/5AIAI</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;由于种种原因，OpenAI未对国内用户开放ChatGPT的注册权限。最近发现不少想要体验原生ChatGPT的小伙伴还不知道怎么注册ChatGPT账号。下面我就手把手分享一下。&lt;/p&gt;
+&lt;p&gt;（已有账号想要快速升级 ChatGPT Plus，可以看这篇教程：&lt;a href=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sora如何使用（最新详细教程）</title>
+    <link href="http://example.com/2024/02/21/how-to-use-sora/"/>
+    <id>http://example.com/2024/02/21/how-to-use-sora/</id>
+    <published>2024-02-21T06:14:07.209Z</published>
+    <updated>2024-02-21T06:14:07.209Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Sora是什么"><a href="#Sora是什么" class="headerlink" title="Sora是什么"></a>Sora是什么</h3><p>Sora是OpenAI 最新推出的文本生成视频的大模型 。Sora能够根据简单的文本描述，生成高达60秒的高质量视频，使得视频创作变得前所未有的简单和高效。</p><p>本文将为您提供关于如何使用Sora的最新详细教程。</p><p>（PS：目前OpenAI只对部分用户开放了Sora的使用权限，不过后续肯定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程<a href="https://aibigplayer.github.io/2024/01/31/how-to-pay-for-chatgpt4/">一键升级GPT Plus</a>）</p><h3 id="如何申请Sora内测"><a href="#如何申请Sora内测" class="headerlink" title="如何申请Sora内测"></a>如何申请Sora内测</h3><p>目前Sora只针对内测用户开放，下面我将和大家分享如何申请Sora内测资格。</p><h4 id="1-打开Sora页面"><a href="#1-打开Sora页面" class="headerlink" title="1.打开Sora页面"></a>1.打开Sora页面</h4><p>打开OpenAI的官网。官网首页，找到并点击「Research」菜单，再选择「Sora」</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/image-20240222092516312.png" alt="image-20240222092516312"></p><h4 id="2-搜索申请页面"><a href="#2-搜索申请页面" class="headerlink" title="2.搜索申请页面"></a>2.搜索申请页面</h4><p>点击右上角的「Search」按钮，打开查询入口。在查询页面，输入「apply」并点击搜索。在查询结果中，选择「Pages」，找到并点击「OpenAI Red Teaming Network application」进入申请页面。</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/image-20240222092826042.png" alt="image-20240222092826042"></p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/image-20240222092844211.png" alt="image-20240222092844211"></p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/image-20240222092943338.png" alt="image-20240222092943338"></p><h4 id="3-填写申请信息"><a href="#3-填写申请信息" class="headerlink" title="3.填写申请信息"></a>3.填写申请信息</h4><p>在申请页面，用英文填写你的申请信息，内容要诚恳，展示你的热情和期待！申请完成后，耐心等待结果即可。</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/image-20240222093133203.png" alt="image-20240222093133203"></p><h3 id="Sora-视频案例"><a href="#Sora-视频案例" class="headerlink" title="Sora 视频案例"></a>Sora 视频案例</h3><p>Sora的应用范围非常广泛，从教育教学、产品演示到内容营销等，都可以通过Sora来实现高质量的视频内容创作。</p><p>下面是 OpenAI 官方发布的应用案例：</p><blockquote><p>1.Prompt: A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.</p></blockquote><p>翻译：一位时尚的女性走在东京街头，周围是温暖闪亮的霓虹灯和活力四射的城市标识。她穿着一件黑色皮夹克，一条长长的红色连衣裙，搭配黑色靴子，并背着一个黑色手提包。她戴着墨镜，涂着红色口红。她步履自信，悠然自得地走着。街道潮湿而反光，呈现出丰富多彩的灯光的镜面效果。许多行人在街上走动。</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/093357.jpg" alt="openai sora文生视频案例"></p><blockquote><p>2.Prompt: Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow covered trees and dramatic snow capped mountains in the distance, mid afternoon light with wispy clouds and a sun high in the distance creates a warm glow, the low camera view is stunning capturing the large furry mammal with beautiful photography, depth of field.</p></blockquote><p>翻译：几只巨大的长毛猛犸象踏过一片雪白的草地，它们长长的毛发在微风中轻轻飘动着，远处覆盖着雪的树木和雄伟的雪山，午后的光线下有些薄云，太阳高悬在远方，营造出温暖的光芒。低角度的摄影视角令人惊叹，捕捉到了这些大型毛茸茸的哺乳动物，画面景深感强烈。</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/093437.jpg" alt="openai sora文生视频案例"></p><blockquote><p>3.Prompt: Historical footage of California during the gold rush.</p></blockquote><p>翻译：加利福尼亚淘金热时期的历史影像。</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/v2-2a45207cad175a764b8d5d59947792c7.jpg" alt="openai sora文生视频案例"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Sora是什么&quot;&gt;&lt;a href=&quot;#Sora是什么&quot; class=&quot;headerlink&quot; title=&quot;Sora是什么&quot;&gt;&lt;/a&gt;Sora是什么&lt;/h3&gt;&lt;p&gt;Sora是OpenAI 最新推出的文本生成视频的大模型 。Sora能够根据简单的文本描述，生成高达6</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ChatGPT PLUS订阅，无需手机号和境外信用卡，国内购买ChatGPT 4.0最新方法</title>
+    <link href="http://example.com/2024/01/31/how-to-pay-for-chatgpt4/"/>
+    <id>http://example.com/2024/01/31/how-to-pay-for-chatgpt4/</id>
+    <published>2024-01-31T07:01:35.992Z</published>
+    <updated>2024-01-31T07:01:35.992Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、为什么要升级ChatGPT-4-0"><a href="#一、为什么要升级ChatGPT-4-0" class="headerlink" title="一、为什么要升级ChatGPT 4.0"></a>一、为什么要升级ChatGPT 4.0</h2><p>与GPT 3.5相比，GPT 4.0在个性化体验上迈出了重要一步。它能够根据用户的具体需求和偏好，提供更加定制化的信息和服务。对于内容创作者而言，GPT 4.0是无尽灵感的源泉。它的高级语言生成能力，能助您轻松跨越创作障碍，提高内容质量和创作效率。另外GPT 4.0的多语言处理能力显著优于GPT 3.5，让语言不再是沟通和学习的障碍。同时GPT 4.0在特定领域知识的处理上更为精准和深入。无论是法律、医疗还是技术领域，GPT 4.0都能提供专业级的见解和分析。</p><h2 id="二、如何升级ChatGPT-plus"><a href="#二、如何升级ChatGPT-plus" class="headerlink" title="二、如何升级ChatGPT plus"></a>二、如何升级ChatGPT plus</h2><p>由于官方限制，ChatGPT在国内无法直接访问，而ChatGPT Plus在此基础上还必须绑定美国的（欧洲的好像也行）信用卡才能开通。目前性价比较高的开通方式是使用虚拟信用卡开通。</p><h3 id="什么是虚拟信用卡"><a href="#什么是虚拟信用卡" class="headerlink" title="什么是虚拟信用卡"></a>什么是虚拟信用卡</h3><p>虚拟信用卡是一种在线支付工具，它为用户提供了一组临时的信用卡号码、有效期和安全码（CVV），用于在线购物或服务订购，而无需使用用户的实际信用卡信息。虚拟信用卡的目的是为了提高在线交易的安全性，通过限制信息的暴露来减少欺诈和未经授权的交易风险。</p><h3 id="使用虚拟信用卡违法吗"><a href="#使用虚拟信用卡违法吗" class="headerlink" title="使用虚拟信用卡违法吗"></a>使用虚拟信用卡违法吗</h3><p>虚拟信用卡本身并不违法。虚拟信用卡是一种支付工具，旨在提高在线交易的安全性，限制个人财务信息的暴露，以减少欺诈和未授权的交易风险。但是，如果虚拟信用卡被用于非法活动，如洗钱、欺诈等，则这种使用方式是违法的。对于只是使用虚拟信用卡来升级GPT plus这种行为是完全合法的。</p><h3 id="虚拟信用卡升级GPT-plus的优势"><a href="#虚拟信用卡升级GPT-plus的优势" class="headerlink" title="虚拟信用卡升级GPT plus的优势"></a>虚拟信用卡升级GPT plus的优势</h3><ul><li>性价比高，网上随便一个代充就是200RMB一个月，只要使用两个月以上成本就超过了虚拟卡的开卡费。</li><li>安全，充多少用多少，用不完的可以退，不用担心代充使用黑卡充值导致账号封禁</li><li>直接体验原生ChatGPT 4.0，第一时间使用GPTs中的各项应用。</li></ul><h3 id="虚拟卡平台推荐"><a href="#虚拟卡平台推荐" class="headerlink" title="虚拟卡平台推荐"></a>虚拟卡平台推荐</h3><p>我个人使用的是wildcard平台（正规平台，使用支付宝或云闪付即可充值，链接在文末）。该平台对新手友好，提供一键升级和一键注册账号的功能：</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/image-20240131110447440.png" alt="image-20240131110447440"></p><h3 id="平台链接"><a href="#平台链接" class="headerlink" title="平台链接"></a>平台链接</h3><p>点击下方链接即可开卡：</p><p><a href="https://bewildcard.com/i/5AIAI">https://bewildcard.com/i/5AIAI</a></p><p>填写邀请码5AIAI即可享受2美元的开卡优惠。开通的是有效期2年的虚拟信用卡，开卡费包含两年年费，大约100元RMB，每天成本不到2毛钱。其他费用无，根据个人需求充值。余额随时可退，右下角还有专属客服。</p><p>大家如果有任何问题，欢迎添加微信AIBigPlayer0咨询，也可以提供账号代充值和升级～</p><p>微信二维码：</p><p><img src="https://aibigplayer-pic.oss-cn-hangzhou.aliyuncs.com/927fe27c5fae403170fdab881b62fbe.jpg" alt="927fe27c5fae403170fdab881b62fbe"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、为什么要升级ChatGPT-4-0&quot;&gt;&lt;a href=&quot;#一、为什么要升级ChatGPT-4-0&quot; class=&quot;headerlink&quot; title=&quot;一、为什么要升级ChatGPT 4.0&quot;&gt;&lt;/a&gt;一、为什么要升级ChatGPT 4.0&lt;/h2&gt;&lt;p&gt;与G</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
