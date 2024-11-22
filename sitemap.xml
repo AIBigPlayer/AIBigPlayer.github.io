@@ -110,6 +110,15 @@
   </url>
   
   <url>
+    <loc>https://aibigplayer.github.io/Comparison-of-different-models-in-ChatGPT/</loc>
+    
+    <lastmod>2024-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aibigplayer.github.io/link/index.html</loc>
     
     <lastmod>2020-12-01</lastmod>
@@ -148,7 +157,7 @@
 
   <url>
     <loc>https://aibigplayer.github.io/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,21 +165,21 @@
   
   <url>
     <loc>https://aibigplayer.github.io/tags/ChatGPT/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aibigplayer.github.io/tags/Sora/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aibigplayer.github.io/tags/Claude/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -179,21 +188,21 @@
   
   <url>
     <loc>https://aibigplayer.github.io/categories/ChatGPT/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aibigplayer.github.io/categories/Sora/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aibigplayer.github.io/categories/Claude/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
